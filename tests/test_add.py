@@ -5,4 +5,4 @@ def test_add():
     assert add(1, 3) == 4
     
 
-print("This is a test for the add function. Good job!")
+print("This is a test for the add function. Good job! You can run this test using pytest.")
